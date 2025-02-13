@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/anek_tamil_bold</item>
+        <item>@font/anton</item>
+        <item>@font/archivo_black</item>
+        <item>@font/atma_light</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

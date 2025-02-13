@@ -21,8 +21,14 @@
         android:theme="@style/Theme.Mykotlin"
         tools:targetApi="31">
         <activity
-            android:name=".DogApiHandling.DogActivity"
-            android:exported="true" >
+            android:name=".WritingTask"
+            android:exported="false" />
+        <activity
+            android:name=".CrucialPage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -30,39 +36,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ViewModel.ViewModelMain"
-            android:exported="true"></activity>
-        <activity
-            android:name=".LiveData.LiveMainActivity"
-            android:exported="true" />
-        <activity
-            android:name=".Alarm.ProblemSolved"
-            android:exported="false" />
-        <activity
-            android:name=".Notification.NotificationActivity"
-            android:exported="true" />
-        <activity
-            android:name=".Alarm.AlarmActivity"
-            android:exported="true" />
-        <activity
-            android:name=".NewCoroutines"
+            android:name=".LandingPage"
             android:exported="true" />
 
-        <receiver
-            android:name=".Alarm.AlarmReceiver"
-            android:enabled="true"
-            android:exported="false">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-            </intent-filter>
-        </receiver>
-
-        <service
-            android:name=".Alarm.AlarmService"
-            android:foregroundServiceType="mediaPlayback" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

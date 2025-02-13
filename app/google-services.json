@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "36775330040",
+    "firebase_url": "https://gokqmp-default-rtdb.firebaseio.com",
+    "project_id": "gokqmp",
+    "storage_bucket": "gokqmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:d892b1d7206090c45e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:41f2a2f66fb1bb975e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.juttela_speaks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:54747a50053ea9ac5e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.kotlinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:27ed91a5a0c303b25e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:1ff3e107c38535c85e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.mykotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:f9f0bfdd1b35c3b05e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.newchat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:d7519219471ae11d5e3b0d",
+        "android_client_info": {
+          "package_name": "com.example.textandprofile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36775330040:android:9c3f68812eb153655e3b0d",
+        "android_client_info": {
+          "package_name": "com.plcoding.meditationuiyoutube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WCvG0UYnBGDGqqFXO6WukwZQK-RTDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
